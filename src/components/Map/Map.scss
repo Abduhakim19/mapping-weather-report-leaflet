@@ -1,0 +1,17 @@
+#mapid {
+    height: 400px;
+}
+
+.shadow-map {
+    position: relative;
+    z-index:  8888;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.178);
+    text-align: center;
+    padding-top: 170px;
+}
+
+.shadow-map-none {
+    display: none;
+}
